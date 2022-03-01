@@ -1,0 +1,58 @@
+segment_sources:
+  PB2B2CB2B:
+    type: origin_type
+    relation: translation
+    language: sa
+  PB00E502A:
+    type: origin_type
+    relation: translation
+    language: zh
+  P1D3B5277:
+    type: origin_type
+    relation: translation
+    language: bo
+  P5FB87270:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  b6b63bf87d694a42b9e5db83fa45f084:
+    PB2B2CB2B: cb0e43d5773d491692765fda2f52f565
+    PB00E502A: 6f68c5dfc4ee419fa7134ffdb58a8791
+    P1D3B5277: 76dccae2101042a1a600d4ad2a708859
+    P5FB87270: 58766a3ffb334573abb93864cda3710d
+  54baa9caa69a4c8faa2f71b25fd926f8:
+    PB2B2CB2B: 79272585c2284873a8cbdbd61e2018c3
+    PB00E502A: 2792e36f681944f1b757619747253c99
+    P1D3B5277: 05dcde29d7744efbb2e96b128b5a27ca
+    P5FB87270: cc959e46d84242f6acb2fc5eab452610
+  ef61267f7ee8491c94880db6df4df536:
+    PB2B2CB2B: ed2a02544f954855ba53ca603bc41540
+    PB00E502A: a2daf45b5acf40f99cfa52c2c2b334ce
+    P1D3B5277: 6b02b78bf3ac49e39553d366f2b0a886
+    P5FB87270: ffa3d69bc03f43d68f7af75651daa80c
+  605581dd16de4510962a1b63b7e58691:
+    PB2B2CB2B: 15684d6abb4f46d7b78c0e05d4ae1fae
+    PB00E502A: 5ce15e9f3efe4b9082ffdefff8c567d4
+    P1D3B5277: 7926f30f5dba476a967bc86a49b41c53
+    P5FB87270: c60dfc67f362412da80293e369705668
+  0a90d6cd186b4d19b310d47c21c970c8:
+    PB2B2CB2B: 847f6d20d87b4e24869ad804723375aa
+    PB00E502A: c3d9c564c22747b89ce429eac9354bfa
+    P1D3B5277: 5704e8931ce44c779f72fec028e9f7c5
+    P5FB87270: 17c5a72d09a646e8b38cbeea6bff739a
+  5bbe52909cd74a51bfec25a796c74bf6:
+    PB2B2CB2B: c9567bdbdf88409290e980562dedf1c8
+    PB00E502A: b528b2cbd6ab4759bc3078d1be93f239
+    P1D3B5277: 37e83a8fd34d4b0ab3f7c63e0105f0d7
+    P5FB87270: 79d96923ec6c47d4b6ab89706f21fb54
+  c275f51a938f4470bc0788ecefeb9b1d:
+    PB2B2CB2B: 0ff6d12ca5da43d9a4b4a9b5d95f8e4d
+    PB00E502A: e117e336268e4d58814bceaf6012bba2
+    P1D3B5277: 9d217ebf73934caaa6082eca2ea3aaac
+    P5FB87270: a1bdb2bd404b4f3a8a951eef517c692f
+  738abf7184d44e86a50c30916d713112:
+    PB2B2CB2B: dd5aebe0164b469e9a44ae3cf7654f21
+    PB00E502A: a7a7781bc38945d3816830b891d4aa2d
+    P1D3B5277: None
+    P5FB87270: 3b86f26a5dd74be690677fd6da6dac95
